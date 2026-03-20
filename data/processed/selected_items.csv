@@ -1,0 +1,149 @@
+item_id,domain,question,options,n_countries,n_options,cross_country_var,mean_of_means
+0,moral_justifiability,"Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card.
+
+Homosexuality","['Never justifiable', '2', '3', '4', '5', '6', '7', '8', '9', 'Always justifiable', ""Don't know"", 'No answer', 'Other missing; Multiple answers Mail (EVS)']",88,10,4.992932437784594,4.1272405615852
+1,moral_justifiability,"Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card.
+
+Sex before marriage","['Never justifiable', '2', '3', '4', '5', '6', '7', '8', '9', 'Always justifiable', ""Don't know"", 'No answer', 'Missing; Not available']",62,10,4.551238143987981,4.713618476622603
+2,moral_justifiability,"Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card.
+
+Abortion","['Never justifiable', '2', '3', '4', '5', '6', '7', '8', '9', 'Always justifiable', ""Don't know"", 'No answer', 'Other missing; Multiple answers Mail (EVS)']",90,10,2.908802720077173,3.9297619125340075
+3,moral_justifiability,"Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card.
+
+Euthanasia","['Never justifiable', '2', '3', '4', '5', '6', '7', '8', '9', 'Always justifiable', ""Don't know"", 'No answer', 'Other missing; Multiple answers Mail (EVS)']",90,10,2.7997421161481655,4.137787180279215
+4,moral_justifiability,"Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card.
+
+Divorce","['Never justifiable', '2', '3', '4', '5', '6', '7', '8', '9', 'Always justifiable', ""Don't know"", 'No answer', 'Other missing; Multiple answers Mail (EVS)']",90,10,2.623999725197489,5.3462776532876966
+5,moral_justifiability,"Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card.
+
+Having casual sex","['Never justifiable', '2', '3', '4', '5', '6', '7', '8', '9', 'Always justifiable', ""Don't know"", 'No answer', 'Other missing; Multiple answers Mail (EVS)']",86,10,2.076686797102563,3.6361156249400364
+6,moral_justifiability,"Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card.
+
+Death penalty","['Never justifiable', '2', '3', '4', '5', '6', '7', '8', '9', 'Always justifiable', ""Don't know"", 'No answer', 'Other missing; Multiple answers Mail (EVS)']",90,10,1.2729529862024824,3.8615072270993367
+7,moral_justifiability,"Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card.
+
+Parents beating children","['Never justifiable', '2', '3', '4', '5', '6', '7', '8', '9', 'Always justifiable', ""Don't know"", 'No answer', 'Missing; Not available']",64,10,1.130653598747284,2.882245371472292
+8,moral_justifiability,"Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card.
+
+Prostitution","['Never justifiable', '2', '3', '4', '5', '6', '7', '8', '9', 'Always justifiable', ""Don't know"", 'No answer', 'Other missing; Multiple answers Mail (EVS)']",85,10,1.0405350469673713,2.8976610721815947
+9,moral_justifiability,"Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card.
+
+Suicide","['Never justifiable', '2', '3', '4', '5', '6', '7', '8', '9', 'Always justifiable', ""Don't know"", 'No answer', 'Other missing; Multiple answers Mail (EVS)']",90,10,0.9079021209712883,2.5390663981299815
+10,gender_family,"Do you agree, disagree or neither agree nor disagree with the following statements?:
+
+Homosexual couples are as good parents as other couples","['Agree strongly', 'Agree', 'Neither agree nor disagree', 'Disagree', 'Disagree strongly', ""Don't know"", 'No answer', 'Other missing; Multiple answers Mail (EVS)']",82,5,0.5771144386345718,3.2348536902005365
+11,gender_family,"Do you agree, disagree or neither agree nor disagree with the following statements?:
+
+Duty towards society to have children","['Agree strongly', 'Agree', 'Neither agree nor disagree', 'Disagree', 'Disagree strongly', ""Don't know"", 'No answer', 'Other missing; Multiple answers Mail (EVS)']",90,5,0.4075966209982596,2.8377464731945037
+12,gender_family,"Do you agree, disagree or neither agree nor disagree with the following statements?:
+
+It is childs duty to take care of ill parent","['Agree strongly', 'Agree', 'Neither agree nor disagree', 'Disagree', 'Disagree strongly', ""Don't know"", 'No answer', 'Other missing; Multiple answers Mail (EVS)']",90,5,0.33376091728565477,2.1434705234332685
+13,gender_family,"For each of the following statements I read out, can you tell me how much you agree with each. Do you agree strongly, agree, disagree, or disagree strongly?
+
+On the whole, men make better political leaders than women do","['Agree strongly', 'Agree', 'Disagree', 'Strongly disagree', ""Don't know"", 'No answer', 'Other missing; Multiple answers Mail (EVS)']",90,4,0.2160651285901742,2.7293800875453114
+14,gender_family,"Do you agree, disagree or neither agree nor disagree with the following statements?
+
+Problem if women have more income than husband","['Strongly agree', 'Agree', 'Neither agree nor disagree', 'Disagree', 'Disagree strongly', ""Don't know"", 'No answer', 'Missing; Unknown']",64,5,0.20960966983205903,3.086245114538141
+15,gender_family,"For each of the following statements I read out, can you tell me how strongly you agree or disagree with each. Do you strongly agree, agree, disagree, or strongly disagree?
+
+On the whole, men make better business executives than women do","['Agree strongly', 'Agree', 'Disagree', 'Strongly disagree', ""Don't know"", 'No answer', 'Other missing; Multiple answers Mail (EVS)']",90,4,0.18192196718726125,2.831284554741356
+16,gender_family,"For each of the following statements I read out, can you tell me how much you agree with each. Do you agree strongly, agree, disagree, or disagree strongly?
+
+A university education is more important for a boy than for a girl","['Agree strongly', 'Agree', 'Disagree', 'Strongly disagree', ""Don't know"", 'No answer', 'Other missing; Multiple answers Mail (EVS)']",90,4,0.11649127055388073,3.1125915920026417
+17,religion_values,"Please tell us if you strongly agree, agree, disagree, or strongly disagree with the following statements:
+
+The only acceptable religion is my religion","['Strongly agree', 'Agree', 'Disagree', 'Strongly disagree', ""Don't know"", 'No answer', 'Missing; Not available; Not applicable']",63,5,0.47165406548606914,2.596774078022427
+18,religion_values,"Please tell us if you strongly agree, agree, disagree, or strongly disagree with the following statements:
+
+Whenever science and religion conflict, religion is always right","['Strongly agree', 'Agree', 'Disagree', 'Strongly disagree', ""Don't know"", 'No answer', 'Missing; Not available']",64,4,0.47162166024511465,2.425068775395162
+19,religion_values,"For each of the following aspects, indicate how important it is in your life. Would you say it is very important, rather important, not very important or not important at all
+
+Religion","['Very important', 'Rather important', 'Not very important', 'Not at all important', ""Don't know"", 'No answer', 'Other missing; Multiple answers Mail (EVS)']",90,4,0.45486739797505715,2.0805500555720595
+20,religion_values,"For each of the following aspects, indicate how important it is in your life. Would you say it is very important, rather important, not very important or not important at all
+
+Politics","['Very important', 'Rather important', 'Not very important', 'Not at all important', ""Don't know"", 'No answer', 'Other missing; Multiple answers Mail (EVS)']",90,4,0.07515803206293149,2.676586255690139
+21,religion_values,"In which of the following things do you believe, if you believe in any?
+
+Hell","['Yes', 'No', ""Don't know"", 'No answer', 'Other missing; Multiple answers Mail (EVS)']",88,2,0.06829171593851315,1.4714589742554607
+22,religion_values,"In which of the following things do you believe, if you believe in any?
+
+Heaven","['Yes', 'No', ""Don't know"", 'No answer', 'Other missing; Multiple answers Mail (EVS)']",88,2,0.06082469699597121,1.3745843804723838
+23,religion_values,"For each of the following aspects, indicate how important it is in your life. Would you say it is very important, rather important, not very important or not important at all
+
+Work","['Very important', 'Rather important', 'Not very important', 'Not at all important', ""Don't know"", 'No answer', 'Other missing; Multiple answers Mail (EVS)']",90,4,0.05373074164633026,1.5163498736313654
+24,religion_values,"In which of the following things do you believe, if you believe in any?
+
+God","['Yes', 'No', ""Don't know"", 'No answer', 'Other missing; Multiple answers Mail (EVS)']",88,2,0.04330666416306325,1.1996379890927829
+25,religion_values,"For each of the following aspects, indicate how important it is in your life. Would you say it is very important, rather important, not very important or not important at all
+
+Leisure time","['Very important', 'Rather important', 'Not very important', 'Not at all important', ""Don't know"", 'No answer', 'Other missing; Multiple answers Mail (EVS)']",90,4,0.04207186279330996,1.760046045870131
+26,religion_values,"For each of the following aspects, indicate how important it is in your life. Would you say it is very important, rather important, not very important or not important at all
+
+Friends","['Very important', 'Rather important', 'Not very important', 'Not at all important', ""Don't know"", 'No answer', 'Other missing; Multiple answers Mail (EVS)']",90,4,0.039174934065844026,1.6787667861741273
+27,tolerance_neighbors,"On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?
+
+Homosexuals","['Mentioned', 'Not mentioned', ""Don't know"", 'No answer', 'Other missing; Multiple answers Mail (EVS)']",88,2,0.07707442869425885,1.5775924010645215
+28,tolerance_neighbors,"On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?
+
+Unmarried couples living together","['Mentioned', 'Not mentioned', ""Don't know"", 'No answer', 'Missing; Not available']",63,2,0.06089228691434828,1.7619583924192825
+29,tolerance_neighbors,"On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?
+
+People who have AIDS","['Mentioned', 'Not mentioned', ""Don't know"", 'No answer', 'Missing; Not available']",64,2,0.0598990133472803,1.611232045671563
+30,tolerance_neighbors,"On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?
+
+Heavy drinkers","['Mentioned', 'Not mentioned', ""Don't know"", 'No answer', 'Other missing; Multiple answers Mail (EVS)']",90,2,0.02559528769185336,1.3379350984199194
+31,tolerance_neighbors,"On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?
+
+People of a different religion","['Mentioned', 'Not mentioned', ""Don't know"", 'No answer', 'Missing; Not available']",64,2,0.021316783933089074,1.8263028193394744
+32,tolerance_neighbors,"On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?
+
+Drug addicts","['Mentioned', 'Not mentioned', ""Don't know"", 'No answer', 'Other missing; Multiple answers Mail (EVS)']",90,2,0.018498927644595396,1.1996825582904944
+33,tolerance_neighbors,"On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?
+
+People who speak a different language","['Mentioned', 'Not mentioned', ""Don't know"", 'No answer', 'Missing; Not available']",64,2,0.017853523819772794,1.8408593806351665
+34,tolerance_neighbors,"On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?
+
+People of a different race","['Mentioned', 'Not mentioned', ""Don't know"", 'No answer', 'Other missing; Multiple answers Mail (EVS)']",90,2,0.017003392342551896,1.8327649020088819
+35,political_authority,"Please tell me for each of the following things how essential you think it is as a characteristic of democracy. Use this scale where 1 means “not at all an essential characteristic of democracy” and 10 means it definitely is “an essential characteristic of democracy
+
+People obey their rulers","['It is against democracy (spontaneous)', 'Not an essential characteristic of democracy', '2', '3', '4', '5', '6', '7', '8', '9', 'An essential characteristic of democracy', ""Don't know"", 'No answer', 'Other missing; Multiple answers Mail (EVS)']",90,11,1.654527710843499,6.554836995782999
+36,political_authority,"Please tell me for each of the following things how essential you think it is as a characteristic of democracy. Use this scale where 1 means “not at all an essential characteristic of democracy” and 10 means it definitely is “an essential characteristic of democracy
+
+The army takes over when government is incompetent","['It is against democracy (spontaneous)', 'Not an essential characteristic of democracy', '2', '3', '4', '5', '6', '7', '8', '9', 'An essential characteristic of democracy', ""Don't know"", 'No answer', 'Other missing; Multiple answers Mail (EVS)']",88,11,1.6534450839778119,5.383610121519848
+37,political_authority,"Please tell me for each of the following things how essential you think it is as a characteristic of democracy. Use this scale where 1 means “not at all an essential characteristic of democracy” and 10 means it definitely is “an essential characteristic of democracy
+
+Religious authorities interpret the laws","['It is against democracy (spontaneous)', 'Not an essential characteristic of democracy', '2', '3', '4', '5', '6', '7', '8', '9', 'An essential characteristic of democracy', ""Don't know"", 'No answer', 'Other missing; Multiple answers Mail (EVS)']",90,11,1.6499816934344893,4.8155963726592255
+38,political_authority,"Now I'd like you to tell me your views on corruption – when people pay a bribe, give a gift or do a favor to other people in order to get the things they need done or the services they need. How would you place your views on corruption in [your country] on a 10-point scale where “1” means “there is no corruption in [my country]” and “10” means “there is
+abundant corruption in [my country]”. If your views are somewhat mixed, choose the appropriate number in between.","['1 There is no corruption in my country', '2', '3', '4', '5', '6', '7', '8', '9', '10 There is abundant corruption in my country', ""Don't know"", 'No answer', 'Missing; Not available']",64,10,1.4086572786395546,7.710104680711908
+39,political_authority,"How satisfied are you with how the political system is functioning in your country these days? On the scale from 1 to 10 below, 1 means not satisfied at all and 10 means completely satisfied.","['Not satisfied at all', '2', '3', '4', '5', '6', '7', '8', '9', 'Completely satisfied', ""Don't know"", 'No answer', 'Other missing; Multiple answers Mail (EVS)']",89,10,1.3281375923372285,5.105501280839333
+40,political_authority,"And how democratically is this country being governed today?. Again using a scale from 1 to 10, where 1 means that it is “not at all democratic” and 10 means that it is “completely democratic,” what position would you choose?","['Not at all democratic', '2', '3', '4', '5', '6', '7', '8', '9', 'Completely democratic', ""Don't know"", 'No answer', 'Other missing; Multiple answers Mail (EVS)']",90,10,1.2467920423590186,5.990170146076935
+41,political_authority,"Please tell me for each of the following things how essential you think it is as a characteristic of democracy. Use this scale where 1 means “not at all an essential characteristic of democracy” and 10 means it definitely is “an essential characteristic of democracy
+
+The state makes people´s incomes equal","['It is against democracy (spontaneous)', 'Not an essential characteristic of democracy', '2', '3', '4', '5', '6', '7', '8', '9', 'An essential characteristic of democracy', ""Don't know"", 'No answer', 'Other missing; Multiple answers Mail (EVS)']",90,11,0.9845136651861162,6.973886335118276
+42,political_authority,"How high is the risk in this country to be held accountable for giving or receiving a bribe, gift or favour in return for public service? To indicate your opinion, use a 10-point scale where “1” means “no risk at all” and “10” means “very high risk”.","['No risk at all', '2', '3', '4', '5', '6', '7', '8', '9', 'Very high risk', ""Don't know"", 'No answer', 'Missing; Not available']",63,10,0.9443292283293968,6.380714415477334
+43,political_authority,"Please tell me for each of the following things how essential you think it is as a characteristic of democracy. Use this scale where 1 means “not at all an essential characteristic of democracy” and 10 means it definitely is “an essential characteristic of democracy
+
+People receive state aid for unemployment","['It is against democracy (spontaneous)', 'Not an essential characteristic of democracy', '2', '3', '4', '5', '6', '7', '8', '9', 'An essential characteristic of democracy', ""Don't know"", 'No answer', 'Other missing; Multiple answers Mail (EVS)']",90,11,0.7455053181973443,8.0738001788637
+44,political_authority,"Please tell me for each of the following things how essential you think it is as a characteristic of democracy. Use this scale where 1 means “not at all an essential characteristic of democracy” and 10 means it definitely is “an essential characteristic of democracy
+
+Women have the same rights as men","['It is against democracy (spontaneous)', 'Not an essential characteristic of democracy', '2', '3', '4', '5', '6', '7', '8', '9', 'An essential characteristic of democracy', ""Don't know"", 'No answer', 'Other missing; Multiple answers Mail (EVS)']",90,11,0.7165109876276686,9.200424104423817
+45,economic_values,"Now I'd like you to tell me your views on various issues. How would you place your views on this scale? 1 means you agree completely with the statement on the left; 10 means you agree completely with the statement on the right; and if your views fall somewhere in between, you can choose any number in between.
+
+Incomes should be made more equal vs There should be greater incentives for individual effort","['Incomes should be made more equal', '2', '3', '4', '5', '6', '7', '8', '9', 'There should be greater incentives for individual effort', ""Don't know"", 'No answer', 'Other missing; Multiple answers Mail (EVS)']",90,10,0.9882134078894041,6.061609964924229
+46,economic_values,"How satisfied are you with the financial situation of your household? If '1' means you are completely dissatisfied on this scale, and '10' means you are completely satisfied, where would you put your satisfaction with your household's financial situation?","['Satisfied', '9', '8', '7', '6', '5', '4', '3', '2', 'Dissatisfied', ""Don't know"", 'No answer', 'Missing; Unknown']",64,10,0.6434215593797648,4.8490454955035425
+47,economic_values,"All things considered, would you say that the world is better off, or worse off, because of science and technology? Please tell me which comes closest to your view on this scale: 1 means that “the world is a lot worse off,” and 10 means that “the world is a lot better off.”
+
+The world is better off, or worse off, because of science and technology","['A lot worse off', '2', '3', '4', '5', '6', '7', '8', '9', 'A lot better off', ""Don't know"", 'No answer', 'Missing; Unknown']",63,10,0.5363510015607321,7.012760373194725
+48,economic_values,How much do you agree or disagree with the statement that nowadays one often has trouble deciding which moral rules are the right ones to follow?,"['Completely agree', '2', '3', '4', '5', '6', '7', '8', '9', 'Completely disagree', ""Don't know"", 'No answer', 'Missing; Not available']",64,10,0.4724642665817417,5.328996395821969
+49,economic_values,"Now, I would like to read some statements and ask how much you agree or disagree with each of these statements. For these questions, a 1 means that you “completely disagree” and a 10 means that you “completely agree.”
+
+Science and technology are making our lives healthier, easier, and more comfortable","['Completely disagree', '2', '3', '4', '5', '6', '7', '8', '9', 'Completely agree', ""Don't know"", 'No answer', 'Missing; Not available']",63,10,0.3729887084215519,7.407152377577371
+50,economic_values,"Now, I would like to read some statements and ask how much you agree or disagree with each of these statements. For these questions, a 1 means that you “completely disagree” and a 10 means that you “completely agree.”
+
+Because of science and technology, there will be more opportunities for the next generation","['Completely disagree', '2', '3', '4', '5', '6', '7', '8', '9', 'Completely agree', ""Don't know"", 'No answer', 'Missing; Unknown']",63,10,0.3054836888755413,7.533076352119789
+51,economic_values,"In political matters, people talk of ""the left"" and ""the right."" How would you place your views on this scale, generally speaking?","['Left', '2', '3', '4', '5', '6', '7', '8', '9', 'Right', ""Don't know"", 'No answer', 'Other missing; Multiple answers Mail (EVS)']",77,10,0.29024934015568765,5.619549905765287
+52,economic_values,"Do you agree or disagree with the following statements?
+
+Work should always come first, even if it means less spare time","['Agree strongly', 'Agree', 'Neither agree nor disagree', 'Disagree', 'Disagree strongly', ""Don't know"", 'No answer', 'Other missing; Multiple answers Mail (EVS)']",90,5,0.28099668092944846,2.5606055151558853
+53,economic_values,Now we would like to know your opinion about the people from other countries who come to live in [your country] - the immigrants. How would you evaluate the impact of these people on the development of [your country]?,"['Rather bad', 'Quite bad', 'Neither good, nor bad', 'Quite good', 'Very good', ""Don't know"", 'No answer', 'Other missing; Multiple answers Mail (EVS)']",90,5,0.1739926236663875,2.958512129661241
+54,economic_values,Do you think this country’s government should or should not have the right to do the following: Monitor all emails and any other information exchanged on the Internet,"['Definitely should have the right', 'Probably should have the right', 'Probably should not have the right', 'Definitely should not have the right', ""Don't know"", 'No answer', 'Other missing; Multiple answers Mail (EVS)']",89,4,0.15629620251194407,3.0056942882073256

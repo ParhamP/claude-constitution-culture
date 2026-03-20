@@ -1,0 +1,25 @@
+# Data
+data/raw/
+results/raw_responses/
+*.pyc
+__pycache__/
+.env
+*.egg-info/
+
+# Large files
+references/*.pdf
+anthropic_essays/
+*.zip
+*.csv
+!data/processed/selected_items.csv
+!data/processed/country_means.csv
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Remember
+.remember/

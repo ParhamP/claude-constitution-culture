@@ -1,5 +1,7 @@
 # Does Claude's Constitution Have a Culture?
 
+**[Paper (arXiv)](https://arxiv.org/abs/2603.28123)**
+
 An empirical evaluation of cultural bias in Claude's Constitutional AI, measuring whether Claude's value positions cluster with WEIRD (Western, Educated, Industrialized, Rich, Democratic) populations.
 
 ## Overview
